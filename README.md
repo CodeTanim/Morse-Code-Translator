@@ -34,4 +34,10 @@ Choice 5) Choosing this option will simply terminate the program.
 
 
 # Examples
-You can test the correctness of the program by comparing outputs with this online [morsecode translator](https://morsecode.world/international/translator.html) 
+You can test the correctness of the program by comparing the outputs shown below with this online [morsecode translator](https://morsecode.world/international/translator.html) 
+
+
+https://user-images.githubusercontent.com/80434026/171079328-42c9d872-f159-4e81-919d-ede1222c803b.mp4
+
+
+
