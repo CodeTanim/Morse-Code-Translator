@@ -20,5 +20,18 @@ Select one of the following choices:
 Choice(1-5): 
 ```
 
+The first line served as a test case for opening unsupported files, and the following lines are the invalid characters and lines being parsed out of a text file containing morsecode conversions for characters. The user will have 5 options to choose from, and each option is explained below:
+
+Choice 1) Print every *valid* character and its corresponding morsecode in a table format.
+
+Choice 2) After inputting a character, the corresponding morsecode for that character will be outputted. 
+
+Choice 3) After inputting a string, the corresponding morsecode for that string will be outputted. 
+
+Choice 4) A text file must be in the project directory, after which you can type in the name of the file for this choice and the morsecode conversion for that entire             text file will be outputted. Question marks (?) will be printed for unsupported characters. 
+
+Choice 5) Choosing this option will simply terminate the program. 
+
+
 # Examples
 You can test the correctness of the program by comparing outputs with this online [morsecode translator](https://morsecode.world/international/translator.html) 
